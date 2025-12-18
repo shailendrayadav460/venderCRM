@@ -19,7 +19,7 @@ const LoginPage = ({ onLoginSuccess }) => {
             setError("Please enter both email and password.");
             return;
         }
-
+ j
         setLoading(true);
 
         setTimeout(() => {
